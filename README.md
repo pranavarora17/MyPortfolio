@@ -1,2 +1,2 @@
 # MyPortfolio
-This lists out my technical capabilities along the way highlighting my technical experience along with my development for projects having real world data. 
+I am creating this project to mark the start of my github contribution era. This is the first project i created that depicts the skills I have gained throughpout the years also enlisting my technical trajectory through out my career. I initially started my journey with mastering C and C++ during tht foundation days of my technical journey, having a bit exposure to C++ dusing my school years helper me alot to master the concepts and work on cpp.Later, I started enjotying java and now currently a working on Java backend ecosystem.  
